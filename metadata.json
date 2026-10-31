@@ -1,0 +1,8 @@
+{
+  "name": "NahalAI Studio",
+  "description": "Privacy-first 16kHz audio capture, offline storage vault, speech transcription, speaker diarization, and intent analysis inspired by the NahalAI Android engine.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
